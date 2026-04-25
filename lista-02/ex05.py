@@ -1,0 +1,10 @@
+# Ex 05: Leia um número inteiro e exiba: o antecessor e o sucessor
+
+numero = int(input('Digite um número: '))
+
+antecessor = numero - 1
+sucessor = numero + 1
+
+print(f'Número: {numero}')
+print(f'Antecessor: {antecessor}')
+print(f'Sucessor: {sucessor}')
