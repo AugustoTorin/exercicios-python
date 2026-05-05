@@ -11,3 +11,4 @@ Essa lista contém exercícios de lógica de programação que resolvi durante m
 - Lista 05: Operadores Numéricos;
 - Lista 06: Listas;
 - Lista 07: Laço For;
+- Lista 08: Manipulação de strings.
