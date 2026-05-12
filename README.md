@@ -1,8 +1,8 @@
-# Lista de Exercícios - Python
+# 📖 Lista de Exercícios - Python
 
-Essa lista contém exercícios de lógica de programação que resolvi durante meus estudos.
+Repositório criado para armazenar exercícios de Python desenvolvidos durante meus estudos de lógica de programação.
 
-## Estrutura
+## 📚 Conteúdo Estudado e Praticado
 
 - Lista 01: Variáveis, Entrada e Saída;
 - Lista 02: Entrada, Saída, Operadores Aritméticos e Lógicos;
@@ -12,3 +12,13 @@ Essa lista contém exercícios de lógica de programação que resolvi durante m
 - Lista 06: Listas;
 - Lista 07: Laço For;
 - Lista 08: Manipulação de strings.
+
+## 📂 Estrutura
+
+Cada pasta representa uma lista de exercício e cada exercício está em um arquivo `.py`.
+
+## 🚀 Tecnologias
+
+- Python;
+- Git;
+- GitHub.
